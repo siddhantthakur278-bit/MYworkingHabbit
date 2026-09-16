@@ -1,0 +1,14 @@
+{
+  "id": "leetcode:1:accepted",
+  "platform": "leetcode",
+  "problem": "Two Sum",
+  "problemId": "1",
+  "contestId": null,
+  "language": "python",
+  "difficulty": "Easy",
+  "status": "Accepted",
+  "timestamp": "2026-09-16T05:49:52.309Z",
+  "runtime": "45 ms",
+  "memory": "17.8 MB",
+  "url": "https://leetcode.com/problems/two-sum/"
+}
