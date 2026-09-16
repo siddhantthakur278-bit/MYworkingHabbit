@@ -1,0 +1,14 @@
+{
+  "id": "geeksforgeeks:reverse-a-linked-list:accepted",
+  "platform": "geeksforgeeks",
+  "problem": "Reverse a Linked List",
+  "problemId": "reverse-a-linked-list",
+  "contestId": null,
+  "language": "java",
+  "difficulty": "Easy",
+  "status": "Accepted",
+  "timestamp": "2026-09-16T05:49:49.634Z",
+  "runtime": null,
+  "memory": null,
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1"
+}
